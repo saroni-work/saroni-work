@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi there, I'm Syarafana 👋
+
+![github banner](https://github.com/user-attachments/assets/1f1cec68-a5ac-4bf1-96b1-00dd0cbf070c)
+
+Fresh Computer Science graduate specializing in Multimedia with a hands-on experience in fullstack developing and designing. 
+I work on random projects in my free time. 
+
+## Languages and Tools: 
+[![My Skills](https://skillicons.dev/icons?i=dart,java,py,androidstudio,blender,c,eclipse,figma,flutter,unity,vscode,visualstudio)](https://skillicons.dev)
 
 <!--
 **saroni-work/saroni-work** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
